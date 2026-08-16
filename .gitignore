@@ -1,0 +1,7 @@
+.history/
+*-backups/
+*.lck
+*.bak
+_autosave-*
+
+.DS_Store
