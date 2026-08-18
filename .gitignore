@@ -1,7 +1,9 @@
 .history/
 *-backups/
+production/
 *.lck
 *.bak
 _autosave-*
+fabrication-toolkit-options.json
 
 .DS_Store
