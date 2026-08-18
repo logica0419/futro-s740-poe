@@ -4436,7 +4436,7 @@
 		(property "Reference" "D2"
 			(at -0.034422 3.497619 0)
 			(layer "F.SilkS")
-			(uuid "b565be93-aa7d-42a9-a21a-58a052a254ed")
+			(uuid "47f4fe54-09d1-4dcd-bc17-82de153d198c")
 			(effects
 				(font
 					(size 1 1)
@@ -4447,7 +4447,7 @@
 		(property "Value" "MB110S"
 			(at 0 3.5 0)
 			(layer "F.Fab")
-			(uuid "c855830e-b4e2-4c9c-8305-73e5ceee19d5")
+			(uuid "1b34e6b0-4855-4bd4-8708-9c46fbabaab7")
 			(effects
 				(font
 					(size 1 1)
@@ -4460,7 +4460,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ee36e39d-b6ba-4618-8362-1b022c511fdd")
+			(uuid "90b5c5f5-8592-436b-afd9-75ac4ff13ebc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4473,7 +4473,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "952fe1df-1835-4b5a-bd1a-df88910b6d71")
+			(uuid "219a8dba-3fe0-4169-b54f-b58f26b92f45")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4892,7 +4892,7 @@
 		(property "Reference" "D1"
 			(at -0.005472 3.500237 0)
 			(layer "F.SilkS")
-			(uuid "c0f559ef-59b1-4a8e-bedc-0e6d84e375a1")
+			(uuid "7edfdf73-7eb1-4436-8a24-ebeb65a9e402")
 			(effects
 				(font
 					(size 1 1)
@@ -4903,7 +4903,7 @@
 		(property "Value" "MB110S"
 			(at 0 3.5 0)
 			(layer "F.Fab")
-			(uuid "4301b586-218a-4a71-9167-4b244918a8fb")
+			(uuid "8646a089-623c-443c-aecf-9ecf611ea1ed")
 			(effects
 				(font
 					(size 1 1)
@@ -4916,7 +4916,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b8e0fc4-204b-4e2e-980d-8fdb6f17f345")
+			(uuid "2fc7d532-654c-41ba-b13d-8621e64d2d68")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4929,7 +4929,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea3baa1f-4771-4f1d-8d40-9bbb0de98f44")
+			(uuid "f4fd3dd6-4a86-4494-a094-06d862e8b38c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9441,6 +9441,14 @@
 				(xy 92.697546 58.504487) (xy 92.728736 58.5005) (xy 100.994363 58.5005)
 			)
 		)
+	)
+	(group ""
+		(uuid "6262f8a1-0889-4bf8-ae31-add387c65212")
+		(members "b5ce8d8a-a8d0-42ac-8578-3323901feba0" "e6380ca3-48bd-495f-94fa-f336c713abf7")
+	)
+	(group ""
+		(uuid "ec5d0736-e68d-4989-937f-c4298195af62")
+		(members "5cba8ba9-83b8-49a1-aef0-efe5a79dd429" "e46701e4-aca5-4815-95d4-706a76956dfa")
 	)
 	(generated
 		(uuid "0bd9825b-360a-4203-a294-85741e9e6d56")
