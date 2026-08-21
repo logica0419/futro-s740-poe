@@ -7227,8 +7227,8 @@
 		(uuid "5cba8ba9-83b8-49a1-aef0-efe5a79dd429")
 	)
 	(gr_circle
-		(center 28.973 31)
-		(end 29.473 31)
+		(center 24 29)
+		(end 24.5 29)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10904,6 +10904,10 @@
 				(xy 87.652487 18.516202) (xy 87.712882 18.5005) (xy 96.434108 18.5005) (xy 96.496249 18.5005)
 			)
 		)
+	)
+	(group ""
+		(uuid "51903172-3b9c-4c90-abeb-6760f35e2f3e")
+		(members "0b1762af-3538-4e3c-bc64-c8f7bd086036" "475000ca-6763-4159-828d-bb136bddab28")
 	)
 	(group ""
 		(uuid "6262f8a1-0889-4bf8-ae31-add387c65212")
